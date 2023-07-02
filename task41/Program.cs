@@ -46,5 +46,5 @@ else
     chis = "числа";
 }
 
-Console.WriteLine($"Пользователь вёл {Stav(array)} чисел больше 0 ");
+Console.WriteLine($"Пользователь вёл {Stav(array)} {chis} больше 0 ");
 
